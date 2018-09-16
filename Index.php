@@ -12,17 +12,24 @@
 
     <header>
 
-        <ul>
-            <li></li>
-            <li><a href="#home">Home</a></li>
-            <li><a href="#news">Market</a></li>
-            <li><a href="#contact">Contact</a></li>
-            <li><a href="#about">About</a></li>
-            <li class="right"><a href="#Account">Login</a></li>
-            <li class="right"><a href="#Search"><span class="glyphicon glyphicon-search full"></a></li></span>
-        </ul>
+        <nav>
+            <ul>
+                <li><h4> StockMarket </h4></li>
+                <li class="right rightmargin">
+                    <a href="#"> Sign out </a>
+                </li>
+                <li style="margin-right: 1.5%;" class="right">
+                    <input class="Searchbox form-control" name="Search" type="text" placeholder="Search..."/>
+                </li>
+            </ul>
+        </nav>
 
     </header>
+
+    <div>
+
+    </div>
+
 
     <footer>
     </footer>
