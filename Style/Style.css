@@ -53,28 +53,17 @@ body {
 
     width: 100%;
     background-color: white;
-
-}
-
-header{
-
-    width: 100%;
-
-}
-
-nav{ 
-
-    width: 100%;
-
+    
 }
 
 ul {
+    
     list-style-type: none;
     margin: 0;
     padding: 0;
     overflow: auto;
     background-color: #333;
-    height: 5%;
+    height: fit-content;
 }
 
 li {
@@ -98,5 +87,23 @@ h4 {
     color: white;
     margin-top: 15%;
     margin-left: 10%;
+
+}
+
+section{
+
+    width: 20%;
+    height: 100%;
+    background-color: #464646;
+    float: left;
+
+}
+
+aside {
+
+    width: 80%;
+    height: 100%;
+    background-color: whitesmoke;
+    float: right;
 
 }
